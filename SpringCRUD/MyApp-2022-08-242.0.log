@@ -1,0 +1,67 @@
+2022-08-30 16:46:19,452 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean     - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-08-30 16:46:19,456 [RMI TCP Connection(4)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource                 - HikariPool-1 - Shutdown initiated...
+2022-08-30 16:46:19,463 [RMI TCP Connection(4)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource                 - HikariPool-1 - Shutdown completed.
+2022-08-30 16:46:27,580 [main] INFO  com.crud.SpringCrudApplication                     - Starting SpringCrudApplication using Java 17.0.3 on DESKTOP-LSG5G4P with PID 2556 (C:\Users\lenovo\eclipse-workspace\SpringCRUD\target\classes started by lenovo in C:\Users\lenovo\eclipse-workspace\SpringCRUD)
+2022-08-30 16:46:27,583 [main] INFO  com.crud.SpringCrudApplication                     - No active profile set, falling back to 1 default profile: "default"
+2022-08-30 16:46:28,273 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate          - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-08-30 16:46:28,315 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate          - Finished Spring Data repository scanning in 34 ms. Found 1 JPA repository interfaces.
+2022-08-30 16:46:28,769 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 1010 (http)
+2022-08-30 16:46:28,776 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-1010"]
+2022-08-30 16:46:28,777 [main] INFO  org.apache.catalina.core.StandardService           - Starting service [Tomcat]
+2022-08-30 16:46:28,777 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-30 16:46:28,868 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2022-08-30 16:46:28,869 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1236 ms
+2022-08-30 16:46:29,007 [main] INFO  o.hibernate.jpa.internal.util.LogHelper            - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-08-30 16:46:29,046 [main] INFO  org.hibernate.Version                              - HHH000412: Hibernate ORM core version 5.6.10.Final
+2022-08-30 16:46:29,177 [main] INFO  org.hibernate.annotations.common.Version           - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-08-30 16:46:29,251 [main] INFO  com.zaxxer.hikari.HikariDataSource                 - HikariPool-1 - Starting...
+2022-08-30 16:46:29,374 [main] INFO  com.zaxxer.hikari.HikariDataSource                 - HikariPool-1 - Start completed.
+2022-08-30 16:46:29,386 [main] INFO  org.hibernate.dialect.Dialect                      - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-08-30 16:46:29,810 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator                 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-08-30 16:46:29,817 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean     - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-08-30 16:46:30,184 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-08-30 16:46:30,489 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-1010"]
+2022-08-30 16:46:30,505 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 1010 (http) with context path ''
+2022-08-30 16:46:30,692 [main] INFO  com.crud.SpringCrudApplication                     - Started SpringCrudApplication in 3.502 seconds (JVM running for 4.109)
+2022-08-30 16:46:48,732 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-08-30 16:46:48,751 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean     - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-08-30 16:46:48,752 [RMI TCP Connection(2)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource                 - HikariPool-1 - Shutdown initiated...
+2022-08-30 16:46:48,758 [RMI TCP Connection(2)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource                 - HikariPool-1 - Shutdown completed.
+2022-08-30 16:46:50,739 [main] INFO  com.crud.SpringCrudApplication                     - Starting SpringCrudApplication using Java 17.0.3 on DESKTOP-LSG5G4P with PID 14120 (C:\Users\lenovo\eclipse-workspace\SpringCRUD\target\classes started by lenovo in C:\Users\lenovo\eclipse-workspace\SpringCRUD)
+2022-08-30 16:46:50,742 [main] INFO  com.crud.SpringCrudApplication                     - No active profile set, falling back to 1 default profile: "default"
+2022-08-30 16:46:51,448 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate          - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-08-30 16:46:51,488 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate          - Finished Spring Data repository scanning in 31 ms. Found 1 JPA repository interfaces.
+2022-08-30 16:46:51,921 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 1010 (http)
+2022-08-30 16:46:51,928 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-1010"]
+2022-08-30 16:46:51,928 [main] INFO  org.apache.catalina.core.StandardService           - Starting service [Tomcat]
+2022-08-30 16:46:51,929 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-30 16:46:52,023 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2022-08-30 16:46:52,023 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1231 ms
+2022-08-30 16:46:52,163 [main] INFO  o.hibernate.jpa.internal.util.LogHelper            - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-08-30 16:46:52,201 [main] INFO  org.hibernate.Version                              - HHH000412: Hibernate ORM core version 5.6.10.Final
+2022-08-30 16:46:52,334 [main] INFO  org.hibernate.annotations.common.Version           - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-08-30 16:46:52,410 [main] INFO  com.zaxxer.hikari.HikariDataSource                 - HikariPool-1 - Starting...
+2022-08-30 16:46:52,531 [main] INFO  com.zaxxer.hikari.HikariDataSource                 - HikariPool-1 - Start completed.
+2022-08-30 16:46:52,544 [main] INFO  org.hibernate.dialect.Dialect                      - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-08-30 16:46:52,977 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator                 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-08-30 16:46:52,983 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean     - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-08-30 16:46:53,327 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-08-30 16:46:53,638 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-1010"]
+2022-08-30 16:46:53,653 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 1010 (http) with context path ''
+2022-08-30 16:46:53,837 [main] INFO  com.crud.SpringCrudApplication                     - Started SpringCrudApplication in 3.524 seconds (JVM running for 4.18)
+2022-08-30 16:47:05,503 [http-nio-1010-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-30 16:47:05,504 [http-nio-1010-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2022-08-30 16:47:05,505 [http-nio-1010-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 1 ms
+2022-08-30 16:47:05,524 [http-nio-1010-exec-1] INFO  com.crud.controller.StudentController              - Get All value 
+2022-08-30 16:47:05,755 [http-nio-1010-exec-2] INFO  com.crud.controller.StudentController              - Get All value 
+2022-08-30 16:47:05,872 [http-nio-1010-exec-3] INFO  com.crud.controller.StudentController              - Get All value 
+2022-08-30 16:47:06,004 [http-nio-1010-exec-4] INFO  com.crud.controller.StudentController              - Get All value 
+2022-08-30 16:47:06,109 [http-nio-1010-exec-5] INFO  com.crud.controller.StudentController              - Get All value 
+2022-08-30 16:47:06,222 [http-nio-1010-exec-6] INFO  com.crud.controller.StudentController              - Get All value 
+2022-08-30 16:47:06,337 [http-nio-1010-exec-7] INFO  com.crud.controller.StudentController              - Get All value 
+2022-08-30 16:47:08,029 [http-nio-1010-exec-8] INFO  com.crud.controller.StudentController              - Get All value 
+2022-08-30 16:47:08,181 [http-nio-1010-exec-9] INFO  com.crud.controller.StudentController              - Get All value 
+2022-08-30 16:47:08,284 [http-nio-1010-exec-10] INFO  com.crud.controller.StudentController              - Get All value 
+2022-08-30 16:47:08,509 [http-nio-1010-exec-1] INFO  com.crud.controller.StudentController              - Get All value 
+2022-08-30 16:47:15,355 [http-nio-1010-exec-2] INFO  com.crud.controller.StudentController              - Get All value 
+2022-08-30 16:47:15,605 [http-nio-1010-exec-3] INFO  com.crud.controller.StudentController              - Get All value 
