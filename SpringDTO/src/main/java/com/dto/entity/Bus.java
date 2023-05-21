@@ -23,7 +23,7 @@ public class Bus {
 	@Column(name="bus_name")
 	private String busName;
 	private String departs;
-	private String arrives;
+	private String depatmentid;
 	@Column(name = "driver_name")
 	private String dName;
 
